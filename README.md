@@ -12,3 +12,8 @@ Attention allowed us to focus on parts of our input sequence while we predicted 
 
 
 ## Evaluation
+
+<p align="center" width="100%">
+    <img width="43%" src="https://github.com/amousavi9/Machine-Translation-using-Transformer/blob/main/figures/accuracy.JPG">
+    <img width="40%" src="https://github.com/amousavi9/Machine-Translation-using-Transformer/blob/main/figures/loss.JPG">
+</p>
