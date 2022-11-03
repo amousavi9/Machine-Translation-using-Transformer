@@ -12,7 +12,7 @@ Attention allowed us to focus on parts of our input sequence while we predicted 
 
 
 ## Evaluation
-The figures below show us accuracy and loss on the training and validation datasets over training epochs
+The figures below show us accuracy and loss on the training and validation datasets over training epochs. It's clear that overfitting has occurred. The reason for this can be the small number of training samples. To solve this problem, you can use MIZAN dataset instead of anki. 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/amousavi9/Machine-Translation-using-Transformer/blob/main/figures/accuracy.JPG">
     <img width="44%" src="https://github.com/amousavi9/Machine-Translation-using-Transformer/blob/main/figures/loss.JPG">
