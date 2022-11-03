@@ -4,5 +4,11 @@ The Transformer model extracts the features for each word using a self-attention
 In this study, I implement machine translation in Persian language with the help of transformer network by anki dataset.
 
 ## Basic Architecture
+In the Transformer Architecture, there is an encoder model on the left side and the decoder on the right. Both encoder and decoder contain a core block of attention and a feed-forward network repeated N number of times.
+Attention allowed us to focus on parts of our input sequence while we predicted our output sequence. self attention helps us create similar connections but within the same sentence. Multi-head Attention is a module for attention mechanisms which runs through an attention mechanism several times in parallel.   
+<p align="center">
+  <img src="https://github.com/amousavi9/Machine-Translation-using-Transformer/blob/main/figures/transformer-architecture.JPG" width="750" height="400" />
+</p>
+
 
 ## Evaluation
